@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SubmissionSatu</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="synopsis">Synopsis</string>
+    ]
+    <string name="home">Home</string>
+    <string name="share_text">Share %s now.</string>
+    <string name="year">Year</string>
+    <string name="movie">Movie</string>
+    <string name="shows">Shows</string>
+    <string name="show_detail">Show Detail</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="film_app">Film App</string>
+    <string name="film_catalogue">Film Catalogue App</string>
+    <string name="favorites">Favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

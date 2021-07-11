@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "itemId": "b14",
+      "title": "X-Men: First Class",
+      "description": "In the early 1960s, during the height of the Cold War, a mutant named Charles Xavier (James McAvoy) meets a fellow mutant named Erik Lehnsherr (Michael Fassbender). Despite their vastly different backgrounds -- Charles grew up with a wealthy family, while Erik lost his parents at Auschwitz -- the two become close friends. As the world teeters on the brink of a nuclear war, Charles and Erik with other mutants join forces to save humanity. However, a situation soon tears the friends apart.",
+      "year": "2011",
+      "imagePath": "https://resizing.flixster.com/13rq44o7ICTE-qFvZIpkIeHBdMU=/206x305/v2/https://flxt.tmsimg.com/assets/p8118537_p_v13_ao.jpg"
+    },
+    {
+      "itemId": "b15",
+      "title": "Jade Dynasty 1",
+      "description": "After the massacre of his village, Zhang Xiao Fan is taken in by the Qing Yun Sect where he begins his journey of cultivation. When he finds out the truth behind the deaths of his parents, he succumbs to his rage and demonic tendencies and becomes the enemy of the Qing Yun Sect. (Source: ChineseDrama.info)",
+      "year": "2019",
+      "imagePath": "https://i.mydramalist.com/dYO3zc.jpg?v=1"
+    },
+    {
+      "itemId": "b16",
+      "title": "The Living Dead",
+      "description": "While on his travels, a young man named Wen Ning (Paul Yu) comes across a mysterious town named Fu Feng. The town's inhabitants live in perpetual fear of malevolent spirits who – so they say – are attracted to candle and lantern light at night time.\n\n A spate of killings has taken place after dark, too, leaving the town's residents shaken and in a state of desperation.\n\nTheir sense of dread leads them to live in darkness after nightfall, for fear of what might happen should they light a fire.\n\n Determined to break the spell, the fearless Wen Ning purposefully lights a lamp in the dead of night, hoping to confront the evil spirits and fight them off.\n\n Just as the shadowy forces are drawing near, his old acquaintance and brother-in-arms Lan Si Zhui (Zheng Fan Xing) appears on the scene, hoping to lend a hand.\n\nTogether, Lan Si Zhui and Wen Ning resolve to fight back against the forces of darkness – and rescue the town from the clutches of evil supernatural forces.",
+      "year": "2019",
+      "imagePath": "https://static.wikia.nocookie.net/drama/images/a/ad/The_Living_Dead.png/revision/latest/scale-to-width-down/300?cb=20200704045453"
+    },
+    {
+      "itemId": "b17",
+      "title": "Fatal Journey",
+      "description": "The story is set during the time when the Qinghe Nie sect was dealing with their ancestral knife tomb incident. Nie Ming Jue brought Nie Huai Sang with other Nie sect disciples to restore the tomb back to its original state to ensure peace in the Nie sect.\n\n Through this, Nie Huai Sang went from a playful disciple to maturing into the next generation sect leader and Nie Ming Jue learned how to better understand his brother and helped him grow.",
+      "year": "2020",
+      "imagePath": "https://i.mydramalist.com/wedBg_4c.jpg?v=1"
+    },
+    {
+      "itemId": "b18",
+      "title": "Burn the Stage: the Movie",
+      "description": "Burn the Stage: The Movie is a 2018 South Korean musical documentary film directed by Park Jun-soo and produced by Yoon Jiwon, featuring the behind-the-scenes of boy band BTS' 2017 The Wings Tour, an event known for drawing in more than half a million fans in 19 different countries around the world.",
+      "year": "2018",
+      "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Burn_the_Stage_the_Movie_poster.jpg/220px-Burn_the_Stage_the_Movie_poster.jpg"
+    },
+    {
+      "itemId": "b19",
+      "title": "BTS (방탄소년단) 'Love Yourself in Seoul'",
+      "description": "Shot at the Olympic Stadium in Seoul during the BTS tour `Love Yourself', an exclusive screening of the most sought-after concert of 2018 hits movie theatres worldwide for a one-day only event.",
+      "year": "2019",
+      "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Love_Yourself_in_Seoul.jpg/220px-Love_Yourself_in_Seoul.jpg"
+    },
+    {
+      "itemId": "b20",
+      "title": "BTS (방탄소년단) 'Bring the Soul: The Movie",
+      "description": "Following their landmark `Love Yourself' tour, BTS triumphantly returns to cinema screens. Shining brighter than any light on the stage, now the group invite us behind the spotlight. On the day following the final concert of their Europe tour, on a rooftop in Paris, BTS tells their very own stories from experiencing new cities to performing in front of thousands across the globe.",
+      "year": "2019",
+      "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Bring_the_Soul_The_Movie.jpg/220px-Bring_the_Soul_The_Movie.jpg"
+    },
+    {
+      "itemId": "b21",
+      "title": "BTS (방탄소년단) 'Break The Silence: The Movie",
+      "description": "Break the Silence: The Movie  is a 2020 South Korean documentary film directed by Park Jun-soo and produced by Big Hit Three Sixty, featuring the behind-the-scenes of boy band BTS' 2018–2019 Love Yourself World Tour. Promoted as the sequel to the band's 2019 film Bring the Soul: The Movie, it was released on September 10, 2020 in select countries, with distribution handled by Trafalgar Releasing. The film is an adaptation of the band's third documentary series, Break The Silence: Docu-Series, that was released on the fan platform Weverse in May.",
+      "year": "2020",
+      "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Break_the_Silence-_The_Movie.jpg/220px-Break_the_Silence-_The_Movie.jpg"
+    },
+    {
+      "itemId": "b22",
+      "title": "200 Pounds Beauty",
+      "description": "Han-Na (Kim A-Joong) is a very large girl with a warm heart. She also possesses an unbelievable voice. Han-Na wants to become a pop-singer, but due to her extra-large appearance, can only work as a faceless singer. She provides the vocals for a popular singer named Amy (Ji Seo-Yun), a beautiful young lady that can’t carry a note to save her life.\n\n Han-Na is also in love with Amiys music producer, Sang-Joon (Joo Jin-Mo), but it's a one-sided love. One day, Han-Na is invited to Sang-Joon’s birthday party and receives a red dress from him to wear to his party. Han-Na is excited, yet scared. The dress is revealing and quite extravagant. With her very large figure, she is not sure if she can wear such an outfit. Han-Na does eventually go to the birthday party in the red dress, but is mortified when petite Amy appears in the same red dress. During the course of the birthday party, Han-Na absorbs more emotional trauma and she simply disappears for one year.\n\n Han-Na then returns as the beautiful Jenny ...",
+      "year": "2006",
+      "imagePath": "https://asianwiki.com/images/b/b9/200poundsbeauty.jpg"
+    },
+    {
+      "itemId": "b23",
+      "title": "Inglorious Basterds",
+      "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "year": "2009",
+      "imagePath": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+  ]
+}

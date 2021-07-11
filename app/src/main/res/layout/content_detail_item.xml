@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="16dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:background="@color/purple_700">
+
+    <ImageView
+        android:id="@+id/image_poster"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="18dp"
+        android:src="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_fav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_poster"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/baseline_favorite_border_24"/>
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fab_fav"
+        tools:text="@string/title"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:fontFamily="sans-serif-thin"
+        android:lineSpacingExtra="5dp"/>
+
+    <TextView
+        android:id="@+id/text_year"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_title"
+        tools:text="@string/year"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:fontFamily="sans-serif-condensed-light"/>
+
+    <TextView
+        android:id="@+id/text_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="@string/synopsis"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_year"
+        app:layout_constraintVertical_bias="0.0"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:fontFamily="sans-serif-condensed-medium" />
+
+    <TextView
+        android:id="@+id/text_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_desc"
+        tools:text="@string/description"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:fontFamily="sans-serif-thin"
+        android:textStyle="bold"
+        android:lineSpacingMultiplier="1.2"
+        android:textSize="16sp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
